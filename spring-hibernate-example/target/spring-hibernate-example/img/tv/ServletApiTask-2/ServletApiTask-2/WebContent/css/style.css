@@ -1,0 +1,154 @@
+#testBlock1 {
+border: 2px solid silver;
+width: 98%;
+height: 50px;
+background-color: #F9F9F9;
+margin: 10px;
+padding: 10px;
+position: static;
+left: 100px;
+float: left;
+box-sizing: inherit; 
+word-spacing: 50mm;
+color: #5BC4D4;
+font-size: 140%;
+text-align:center;
+
+}
+
+
+#testBlock {
+border: 2px solid silver;
+width: 19%;
+height: 100px;
+background-color: #F9F9F9;
+margin: 10px;
+padding: 10px;
+position: static;
+left: 100px;
+float: left;
+
+}
+
+#testBlock3 {
+border: 2px solid silver;
+width: 74%;
+height: 810px;
+background-color: #F9F9F9;
+margin: 10px;
+padding: 10px;
+position: static;
+left: 100px;
+float: left;
+
+}
+
+#testBlock4 {
+border: 2px solid silver;
+width: 19%;
+height: 810px;
+background-color: #F9F9F9;
+margin: 10px;
+padding: 10px;
+position: static;
+left: 100px;
+float: left;
+color: #5BC4D4;
+font-size: 140%;
+
+}
+
+
+
+
+#testBlock2 {
+border: 2px solid silver;
+width: 98%;
+height: 50px;
+background-color: #F9F9F9;
+margin: 10px;
+padding: 10px;
+position: static;
+left: 100px;
+float: left;
+box-sizing: inherit; 
+font-size: 140%;
+text-align:center;
+}
+
+.headline{
+	color: #5BC4D4;
+	font-size: 140%;
+
+}
+
+#num1{
+	color: #939393;
+}
+
+
+#testBlock5 {
+border: 1px solid silver;
+width: 97%;
+height: 1000px;
+background-color: #F9F9F9;
+margin: 10px;
+padding: 10px;
+position: static;
+left: 100px;
+float: left;
+}
+
+#testBlock6 {
+border: 1px solid silver;
+width: 45%;
+height: 230px;
+background-color: #F9F9F9;
+margin: 10px;
+padding: 10px;
+position: static;
+left: 100px;
+float: left;
+}
+
+#testBlock7 {
+border: 1px solid silver;
+width: 97%;
+height: 150px;
+background-color: #F9F9F9;
+margin: 10px;
+padding: 10px;
+position: static;
+left: 100px;
+float: left;
+}
+
+#testBlock8 {
+border: 1px solid silver;
+width: 97%;
+height: 50px;
+background-color: #F9F9F9;
+margin: 10px;
+padding: 10px;
+position: static;
+left: 100px;
+float: left;
+}
+
+#tableBorderColor{
+	border-color: #E9FAFF;
+}
+	
+
+#small{
+	font-size: 70%;
+}
+
+.bold_cell{
+	position: static;
+
+	padding: 5px;
+     border: 1px solid #FB0404;
+     -moz-box-shadow: 2px 1px 3px #FB0404;
+    -webkit-box-shadow: 2px 1px 3px #FB0404;
+}
